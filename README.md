@@ -253,21 +253,33 @@ https://www.youtube.com/watch?v=0Q5gSF3Hwd8
 
    Install the requirements:
 
-     dash==1.0.0 
+    chart_studio==1.1.0 
 
-     dash-core-components==2.0.0 
+    dash==2.15.0 
 
-     dash-cytoscape==1.0.0 
+    dash_core_components==2.0.0 
 
-     dash-html-components==2.0.0 
+    dash_html_components==2.0.0 
 
-     gunicorn==19.9.0 
+    Flask==2.3.2 
 
-     pandas==0.23.4 
+    numpy==1.25.1 
 
-     Plotly==5.20.0 
+    pandas==2.0.3 
 
-     requests==2.31.0 
+    plotly==5.19.0 
+
+    Requests==2.31.0 
+
+    scikit_learn==1.1.3 
+
+    scikit_learn==1.4.1.
+
+    dash-cytoscape==1.0.0 
+
+    gunicorn==19.9.0 
+
+    requests==2.31.0 
 
  
 
@@ -316,7 +328,10 @@ https://www.youtube.com/watch?v=0Q5gSF3Hwd8
 
     http://127.0.0.1:8051 
 
- 
+
+Notes:
+
+_Dockerfiles may require a few attempts to adapt to various environments successfully, so please be patient and try running the build process multiple times if needed until it executes without any issues._
 
  2) Portfolio construction by Random Forest model 
 
