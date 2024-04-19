@@ -146,9 +146,7 @@ https://www.youtube.com/watch?v=0Q5gSF3Hwd8
 
     Requests==2.31.0 
 
-    scikit_learn==1.1.3 
-
-    scikit_learn==1.4.1.post1 
+    scikit_learn==1.4.1
 
  
 
