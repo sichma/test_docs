@@ -23,7 +23,10 @@ In our project, codes were developed for the procedures below.
 
  5) **Dynamic poster** development *Not used for presentation recording, but our **key-appendix deliverable**.
 
- 
+Demo of 1 through 4: https://www.youtube.com/watch?v=FLSM-afAG5o
+
+Demo of 5:
+https://www.youtube.com/watch?v=0Q5gSF3Hwd8
 
  Concise explanation on Description, Installation, Execution follows as below. 
 
